@@ -1,1 +1,1 @@
-# rsschool-cv
+https://e1washere.github.io/rsschool-cv/cv
