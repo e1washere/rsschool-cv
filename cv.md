@@ -9,7 +9,7 @@
 * github: [e1washere](https://github.com/e1washere)
 * telegram: [e1](https://t.me/frog0x7E47)
 
-### About me: 
+### About Me: 
 
 Computer science student at Warsaw University of Technology, driven to excel in web development with a focus on mastering JavaScript. Eager learner, adaptable collaborator, and committed to staying at the forefront of technology. Seeking opportunities to apply and enhance my skills in real-world projects.
 
@@ -23,6 +23,20 @@ data modification and retrieval, key aspects of performance and transactional pr
 * Design Patterns : Abstract Factory, Decorator, Iterator, Singleton, Chain of Responsibility, Visitor etc.
 * HTML/CSS/JS : creating structure and simple design for web and mobile apps.
 
+### Code Example: 
+
+```javascript
+function getChance(n, x, a){
+    let chance = 1;
+    while (a > 0) {
+        chance = (n - x) / n * chance;
+        n--;
+        a--;
+    }
+    return Math.round(chance * 100) / 100;
+}
+```
+
 ### Education:
 
 Faculty of Mathematics and Information Science at **Warsaw University of Technology** (Computer Science course)  
@@ -34,6 +48,6 @@ Faculty of Mathematics and Information Science at **Warsaw University of Technol
 
 ### Languages:
 
-* Russian
-* English
-* Polish
+* Russian (Native)
+* English (C1, University program in English)
+* Polish (B2)
